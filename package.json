@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint-utils": "^1.4.1",
     "handlebars": "^4.1.0",
     "js-yaml": "^3.13.1",
     "merge": "^1.2.1",
